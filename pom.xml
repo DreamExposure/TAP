@@ -19,7 +19,7 @@
 
         <spring.version>2.2.9.RELEASE</spring.version>
         <spring.session.version>2.2.3.RELEASE</spring.session.version>
-        <spring.security.version>5.3.4.RELEASE</spring.security.version>
+        <spring.security.version>5.3.10.RELEASE</spring.security.version>
     </properties>
 
     <groupId>org.dreamexposure.tap</groupId>
